@@ -1,0 +1,3542 @@
+[
+ {
+  "file": "P0 安全与稳定性规范.md",
+  "name": "P0 安全与稳定性规范",
+  "title": "P0 安全与稳定性规范",
+  "total_lines": 304,
+  "total_chars": 4656,
+  "split_level": "part",
+  "segments": [
+   {
+    "title": "数据备份与恢复",
+    "lines": "6-44",
+    "start": 6,
+    "end": 44,
+    "chars": 618
+   },
+   {
+    "title": "日志脱敏",
+    "lines": "45-97",
+    "start": 45,
+    "end": 97,
+    "chars": 932
+   },
+   {
+    "title": "环境隔离",
+    "lines": "98-134",
+    "start": 98,
+    "end": 134,
+    "chars": 590
+   },
+   {
+    "title": "回滚策略",
+    "lines": "135-165",
+    "start": 135,
+    "end": 165,
+    "chars": 469
+   },
+   {
+    "title": "限流与熔断",
+    "lines": "166-214",
+    "start": 166,
+    "end": 214,
+    "chars": 730
+   },
+   {
+    "title": "依赖管理",
+    "lines": "215-304",
+    "start": 215,
+    "end": 304,
+    "chars": 1201
+   }
+  ]
+ },
+ {
+  "file": "PPT  DOCX  表格 文件生成规范.md",
+  "name": "PPT  DOCX  表格 文件生成规范",
+  "title": "PPT / DOCX / 表格 文件生成规范",
+  "total_lines": 198,
+  "total_chars": 4118,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "文档定位",
+    "lines": "1-5",
+    "start": 1,
+    "end": 5,
+    "chars": 229
+   },
+   {
+    "title": "必须先确认的四项",
+    "lines": "6-13",
+    "start": 6,
+    "end": 13,
+    "chars": 209
+   },
+   {
+    "title": "MCP 工具方案（推荐，AI 直接生成文件）",
+    "lines": "14-69",
+    "start": 14,
+    "end": 69,
+    "chars": 1377
+   },
+   {
+    "title": "网页平台方案（无需配置，直接使用）",
+    "lines": "70-132",
+    "start": 70,
+    "end": 132,
+    "chars": 1138
+   },
+   {
+    "title": "执行规范",
+    "lines": "133-159",
+    "start": 133,
+    "end": 159,
+    "chars": 486
+   },
+   {
+    "title": "常见错误清单",
+    "lines": "160-169",
+    "start": 160,
+    "end": 169,
+    "chars": 179
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "170-188",
+    "start": 170,
+    "end": 188,
+    "chars": 313
+   },
+   {
+    "title": "待确认清单（收到任务时填写）",
+    "lines": "189-198",
+    "start": 189,
+    "end": 198,
+    "chars": 180
+   }
+  ]
+ },
+ {
+  "file": "仅仅面向聊天或角色扮演的教程！.md",
+  "name": "仅仅面向聊天或角色扮演的教程！",
+  "title": "聊天“更像真人”优化规范",
+  "total_lines": 423,
+  "total_chars": 3174,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "文档定位",
+    "lines": "2-11",
+    "start": 2,
+    "end": 11,
+    "chars": 123
+   },
+   {
+    "title": "先诊断：现在“不像真人”在哪里？",
+    "lines": "12-33",
+    "start": 12,
+    "end": 33,
+    "chars": 236
+   },
+   {
+    "title": "节奏层优化：让聊天有“人味”",
+    "lines": "34-123",
+    "start": 34,
+    "end": 123,
+    "chars": 638
+   },
+   {
+    "title": "一致性层优化：让角色“立得住”",
+    "lines": "124-229",
+    "start": 124,
+    "end": 229,
+    "chars": 560
+   },
+   {
+    "title": "记忆层优化：让角色“记住事”",
+    "lines": "230-293",
+    "start": 230,
+    "end": 293,
+    "chars": 583
+   },
+   {
+    "title": "交互层优化（如果涉及语音）",
+    "lines": "294-329",
+    "start": 294,
+    "end": 329,
+    "chars": 237
+   },
+   {
+    "title": "执行顺序（强制）",
+    "lines": "330-349",
+    "start": 330,
+    "end": 349,
+    "chars": 208
+   },
+   {
+    "title": "常见错误清单",
+    "lines": "350-369",
+    "start": 350,
+    "end": 369,
+    "chars": 192
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "370-403",
+    "start": 370,
+    "end": 403,
+    "chars": 231
+   },
+   {
+    "title": "待确认清单（收到任务时填写）",
+    "lines": "404-423",
+    "start": 404,
+    "end": 423,
+    "chars": 133
+   }
+  ]
+ },
+ {
+  "file": "图片或视频生成.md",
+  "name": "图片或视频生成",
+  "title": "生成视频或图片的 MCP 工具教程（含下载链接）",
+  "total_lines": 461,
+  "total_chars": 4772,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "核心思路",
+    "lines": "2-11",
+    "start": 2,
+    "end": 11,
+    "chars": 128
+   },
+   {
+    "title": "图像生成 MCP",
+    "lines": "12-127",
+    "start": 12,
+    "end": 127,
+    "chars": 1195
+   },
+   {
+    "title": "视频生成 MCP",
+    "lines": "128-289",
+    "start": 128,
+    "end": 289,
+    "chars": 1613
+   },
+   {
+    "title": "多模态 MCP（图 + 视频 + 音频）",
+    "lines": "290-345",
+    "start": 290,
+    "end": 345,
+    "chars": 539
+   },
+   {
+    "title": "快速选择指南",
+    "lines": "346-361",
+    "start": 346,
+    "end": 361,
+    "chars": 259
+   },
+   {
+    "title": "通用配置模板",
+    "lines": "362-411",
+    "start": 362,
+    "end": 411,
+    "chars": 520
+   },
+   {
+    "title": "常见错误清单",
+    "lines": "412-427",
+    "start": 412,
+    "end": 427,
+    "chars": 242
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "428-461",
+    "start": 428,
+    "end": 461,
+    "chars": 244
+   }
+  ]
+ },
+ {
+  "file": "多ai怎么办.md",
+  "name": "多ai怎么办",
+  "title": "多 AI 接力协作规范",
+  "total_lines": 603,
+  "total_chars": 4413,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "文档定位",
+    "lines": "2-11",
+    "start": 2,
+    "end": 11,
+    "chars": 167
+   },
+   {
+    "title": "触发条件",
+    "lines": "12-37",
+    "start": 12,
+    "end": 37,
+    "chars": 127
+   },
+   {
+    "title": "执行流程",
+    "lines": "38-139",
+    "start": 38,
+    "end": 139,
+    "chars": 464
+   },
+   {
+    "title": "记录文件的内容格式",
+    "lines": "140-235",
+    "start": 140,
+    "end": 235,
+    "chars": 772
+   },
+   {
+    "title": "字段说明",
+    "lines": "236-269",
+    "start": 236,
+    "end": 269,
+    "chars": 236
+   },
+   {
+    "title": "文件位置",
+    "lines": "270-299",
+    "start": 270,
+    "end": 299,
+    "chars": 234
+   },
+   {
+    "title": "冲突处理",
+    "lines": "300-351",
+    "start": 300,
+    "end": 351,
+    "chars": 373
+   },
+   {
+    "title": "记录文件示例",
+    "lines": "352-519",
+    "start": 352,
+    "end": 519,
+    "chars": 1410
+   },
+   {
+    "title": "常见错误清单",
+    "lines": "520-543",
+    "start": 520,
+    "end": 543,
+    "chars": 211
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "544-585",
+    "start": 544,
+    "end": 585,
+    "chars": 265
+   },
+   {
+    "title": "待确认清单（收到任务时填写）",
+    "lines": "586-603",
+    "start": 586,
+    "end": 603,
+    "chars": 121
+   }
+  ]
+ },
+ {
+  "file": "工程化与可观测性协作规范.md",
+  "name": "工程化与可观测性协作规范",
+  "title": "工程化与可观测性协作规范",
+  "total_lines": 497,
+  "total_chars": 5387,
+  "split_level": "part",
+  "segments": [
+   {
+    "title": "Git 工作流",
+    "lines": "6-107",
+    "start": 6,
+    "end": 107,
+    "chars": 1072
+   },
+   {
+    "title": "CI/CD",
+    "lines": "108-179",
+    "start": 108,
+    "end": 179,
+    "chars": 660
+   },
+   {
+    "title": "测试",
+    "lines": "180-256",
+    "start": 180,
+    "end": 256,
+    "chars": 793
+   },
+   {
+    "title": "监控与日志",
+    "lines": "257-376",
+    "start": 257,
+    "end": 376,
+    "chars": 1607
+   },
+   {
+    "title": "性能监控",
+    "lines": "377-497",
+    "start": 377,
+    "end": 497,
+    "chars": 1138
+   }
+  ]
+ },
+ {
+  "file": "开发/Blender 建模与 MCP 使用规范.md",
+  "name": "Blender 建模与 MCP 使用规范",
+  "title": "一、文档定位",
+  "total_lines": 190,
+  "total_chars": 3692,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "文档定位",
+    "lines": "1-4",
+    "start": 1,
+    "end": 4,
+    "chars": 145
+   },
+   {
+    "title": "任务接收：必须先确认的五项",
+    "lines": "5-13",
+    "start": 5,
+    "end": 13,
+    "chars": 228
+   },
+   {
+    "title": "Blender MCP 选型",
+    "lines": "14-23",
+    "start": 14,
+    "end": 23,
+    "chars": 416
+   },
+   {
+    "title": "MCP 配置规范",
+    "lines": "24-74",
+    "start": 24,
+    "end": 74,
+    "chars": 744
+   },
+   {
+    "title": "最常见的坑（必读）",
+    "lines": "75-84",
+    "start": 75,
+    "end": 84,
+    "chars": 205
+   },
+   {
+    "title": "安全规范（强制）",
+    "lines": "85-105",
+    "start": 85,
+    "end": 105,
+    "chars": 302
+   },
+   {
+    "title": "建模工作流规范",
+    "lines": "106-134",
+    "start": 106,
+    "end": 134,
+    "chars": 465
+   },
+   {
+    "title": "常见错误清单",
+    "lines": "135-147",
+    "start": 135,
+    "end": 147,
+    "chars": 206
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "148-168",
+    "start": 148,
+    "end": 168,
+    "chars": 313
+   },
+   {
+    "title": "下载地址",
+    "lines": "169-178",
+    "start": 169,
+    "end": 178,
+    "chars": 440
+   },
+   {
+    "title": "待确认清单",
+    "lines": "179-190",
+    "start": 179,
+    "end": 190,
+    "chars": 218
+   }
+  ]
+ },
+ {
+  "file": "开发/UI 页面通用实现规范.md",
+  "name": "UI 页面通用实现规范",
+  "title": "UI 页面通用实现规范",
+  "total_lines": 306,
+  "total_chars": 6960,
+  "split_level": "num",
+  "segments": [
+   {
+    "title": "本库里三份 UI 相关文档的分工（务必先分清，读错就是返工）",
+    "lines": "8-20",
+    "start": 8,
+    "end": 20,
+    "chars": 483
+   },
+   {
+    "title": "本文档的立场",
+    "lines": "21-50",
+    "start": 21,
+    "end": 50,
+    "chars": 611
+   },
+   {
+    "title": "布局骨架",
+    "lines": "51-57",
+    "start": 51,
+    "end": 57,
+    "chars": 121
+   },
+   {
+    "title": "导航层",
+    "lines": "58-62",
+    "start": 58,
+    "end": 62,
+    "chars": 87
+   },
+   {
+    "title": "内容区",
+    "lines": "63-66",
+    "start": 63,
+    "end": 66,
+    "chars": 26
+   },
+   {
+    "title": "操作区",
+    "lines": "67-70",
+    "start": 67,
+    "end": 70,
+    "chars": 51
+   },
+   {
+    "title": "反馈层",
+    "lines": "71-75",
+    "start": 71,
+    "end": 75,
+    "chars": 128
+   },
+   {
+    "title": "状态层",
+    "lines": "76-79",
+    "start": 76,
+    "end": 79,
+    "chars": 41
+   },
+   {
+    "title": "边界层",
+    "lines": "80-88",
+    "start": 80,
+    "end": 88,
+    "chars": 106
+   },
+   {
+    "title": "列表页（List）",
+    "lines": "89-97",
+    "start": 89,
+    "end": 97,
+    "chars": 151
+   },
+   {
+    "title": "详情 / 表单页（Detail & Form）",
+    "lines": "98-106",
+    "start": 98,
+    "end": 106,
+    "chars": 176
+   },
+   {
+    "title": "仪表盘（Dashboard）",
+    "lines": "107-114",
+    "start": 107,
+    "end": 114,
+    "chars": 144
+   },
+   {
+    "title": "设置页（Settings）",
+    "lines": "115-122",
+    "start": 115,
+    "end": 122,
+    "chars": 140
+   },
+   {
+    "title": "登录注册（Auth）",
+    "lines": "123-131",
+    "start": 123,
+    "end": 131,
+    "chars": 176
+   },
+   {
+    "title": "空态 / 错误 / 加载（Status）",
+    "lines": "132-157",
+    "start": 132,
+    "end": 157,
+    "chars": 1122
+   },
+   {
+    "title": "游戏引擎 UI 的三条额外约束",
+    "lines": "158-167",
+    "start": 158,
+    "end": 167,
+    "chars": 231
+   },
+   {
+    "title": "必须定义的令牌",
+    "lines": "168-179",
+    "start": 168,
+    "end": 179,
+    "chars": 327
+   },
+   {
+    "title": "三条硬约束",
+    "lines": "180-191",
+    "start": 180,
+    "end": 191,
+    "chars": 226
+   },
+   {
+    "title": "七种状态清单（缺一不可）",
+    "lines": "192-212",
+    "start": 192,
+    "end": 212,
+    "chars": 527
+   },
+   {
+    "title": "断点建议",
+    "lines": "213-221",
+    "start": 213,
+    "end": 221,
+    "chars": 171
+   },
+   {
+    "title": "适配要点",
+    "lines": "222-233",
+    "start": 222,
+    "end": 233,
+    "chars": 233
+   },
+   {
+    "title": "键盘可达（Web / 桌面必做）",
+    "lines": "234-240",
+    "start": 234,
+    "end": 240,
+    "chars": 149
+   },
+   {
+    "title": "语义与辅助",
+    "lines": "241-247",
+    "start": 241,
+    "end": 247,
+    "chars": 137
+   },
+   {
+    "title": "移动端软键盘",
+    "lines": "248-257",
+    "start": 248,
+    "end": 257,
+    "chars": 111
+   },
+   {
+    "title": "各场景要点",
+    "lines": "258-271",
+    "start": 258,
+    "end": 271,
+    "chars": 302
+   },
+   {
+    "title": "必查项",
+    "lines": "272-292",
+    "start": 272,
+    "end": 292,
+    "chars": 353
+   },
+   {
+    "title": "硬性要求清单",
+    "lines": "293-306",
+    "start": 293,
+    "end": 306,
+    "chars": 427
+   }
+  ]
+ },
+ {
+  "file": "开发/前端进阶系统实现规范.md",
+  "name": "前端进阶系统实现规范",
+  "title": "前端进阶系统实现规范",
+  "total_lines": 376,
+  "total_chars": 6214,
+  "split_level": "part",
+  "segments": [
+   {
+    "title": "状态管理",
+    "lines": "6-59",
+    "start": 6,
+    "end": 59,
+    "chars": 1231
+   },
+   {
+    "title": "路由",
+    "lines": "60-129",
+    "start": 60,
+    "end": 129,
+    "chars": 1376
+   },
+   {
+    "title": "表单处理",
+    "lines": "130-165",
+    "start": 130,
+    "end": 165,
+    "chars": 453
+   },
+   {
+    "title": "国际化",
+    "lines": "166-208",
+    "start": 166,
+    "end": 208,
+    "chars": 761
+   },
+   {
+    "title": "无障碍",
+    "lines": "209-244",
+    "start": 209,
+    "end": 244,
+    "chars": 567
+   },
+   {
+    "title": "动画",
+    "lines": "245-274",
+    "start": 245,
+    "end": 274,
+    "chars": 502
+   },
+   {
+    "title": "图表可视化",
+    "lines": "275-303",
+    "start": 275,
+    "end": 303,
+    "chars": 442
+   },
+   {
+    "title": "PWA",
+    "lines": "304-376",
+    "start": 304,
+    "end": 376,
+    "chars": 766
+   }
+  ]
+ },
+ {
+  "file": "开发/安全与协作基础实现规范.md",
+  "name": "安全与协作基础实现规范",
+  "title": "文档说明",
+  "total_lines": 403,
+  "total_chars": 5548,
+  "split_level": "part",
+  "segments": [
+   {
+    "title": "认证与授权",
+    "lines": "5-83",
+    "start": 5,
+    "end": 83,
+    "chars": 1475
+   },
+   {
+    "title": "常见漏洞防御",
+    "lines": "84-169",
+    "start": 84,
+    "end": 169,
+    "chars": 1475
+   },
+   {
+    "title": "密钥管理",
+    "lines": "170-220",
+    "start": 170,
+    "end": 220,
+    "chars": 763
+   },
+   {
+    "title": "Git 工作流",
+    "lines": "221-295",
+    "start": 221,
+    "end": 295,
+    "chars": 742
+   },
+   {
+    "title": "测试",
+    "lines": "296-403",
+    "start": 296,
+    "end": 403,
+    "chars": 1005
+   }
+  ]
+ },
+ {
+  "file": "开发/安全与协作基础规范.md",
+  "name": "安全与协作基础规范",
+  "title": "安全与协作基础规范",
+  "total_lines": 344,
+  "total_chars": 4903,
+  "split_level": "part",
+  "segments": [
+   {
+    "title": "认证与授权（完整版）",
+    "lines": "6-87",
+    "start": 6,
+    "end": 87,
+    "chars": 1492
+   },
+   {
+    "title": "常见漏洞防御",
+    "lines": "88-173",
+    "start": 88,
+    "end": 173,
+    "chars": 1475
+   },
+   {
+    "title": "密钥管理",
+    "lines": "174-224",
+    "start": 174,
+    "end": 224,
+    "chars": 763
+   },
+   {
+    "title": "Git 工作流（重述要点）",
+    "lines": "225-272",
+    "start": 225,
+    "end": 272,
+    "chars": 490
+   },
+   {
+    "title": "测试（重述要点）",
+    "lines": "273-344",
+    "start": 273,
+    "end": 344,
+    "chars": 552
+   }
+  ]
+ },
+ {
+  "file": "开发/开发：网页前后端/开发前端.md",
+  "name": "开发前端",
+  "title": "一、文档目的",
+  "total_lines": 547,
+  "total_chars": 4784,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "文档目的",
+    "lines": "1-9",
+    "start": 1,
+    "end": 9,
+    "chars": 122
+   },
+   {
+    "title": "项目定义",
+    "lines": "10-57",
+    "start": 10,
+    "end": 57,
+    "chars": 309
+   },
+   {
+    "title": "技术栈决策",
+    "lines": "58-133",
+    "start": 58,
+    "end": 133,
+    "chars": 763
+   },
+   {
+    "title": "项目结构规范",
+    "lines": "134-215",
+    "start": 134,
+    "end": 215,
+    "chars": 1170
+   },
+   {
+    "title": "代码规范（精简版）",
+    "lines": "216-293",
+    "start": 216,
+    "end": 293,
+    "chars": 602
+   },
+   {
+    "title": "性能规范（强制）",
+    "lines": "294-359",
+    "start": 294,
+    "end": 359,
+    "chars": 481
+   },
+   {
+    "title": "代码产出规范",
+    "lines": "360-409",
+    "start": 360,
+    "end": 409,
+    "chars": 284
+   },
+   {
+    "title": "开发顺序（强制）",
+    "lines": "410-441",
+    "start": 410,
+    "end": 441,
+    "chars": 270
+   },
+   {
+    "title": "常见错误清单（自查用）",
+    "lines": "442-471",
+    "start": 442,
+    "end": 471,
+    "chars": 352
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "472-505",
+    "start": 472,
+    "end": 505,
+    "chars": 216
+   },
+   {
+    "title": "待确认清单（阻塞项）",
+    "lines": "506-525",
+    "start": 506,
+    "end": 525,
+    "chars": 129
+   },
+   {
+    "title": "下一步",
+    "lines": "526-547",
+    "start": 526,
+    "end": 547,
+    "chars": 75
+   }
+  ]
+ },
+ {
+  "file": "开发/开发：网页前后端/开发后端.md",
+  "name": "开发后端",
+  "title": "一、文档目的",
+  "total_lines": 751,
+  "total_chars": 5561,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "文档目的",
+    "lines": "1-9",
+    "start": 1,
+    "end": 9,
+    "chars": 122
+   },
+   {
+    "title": "项目定义",
+    "lines": "10-57",
+    "start": 10,
+    "end": 57,
+    "chars": 312
+   },
+   {
+    "title": "技术栈决策",
+    "lines": "58-147",
+    "start": 58,
+    "end": 147,
+    "chars": 873
+   },
+   {
+    "title": "项目结构规范",
+    "lines": "148-211",
+    "start": 148,
+    "end": 211,
+    "chars": 944
+   },
+   {
+    "title": "接口设计规范",
+    "lines": "212-315",
+    "start": 212,
+    "end": 315,
+    "chars": 800
+   },
+   {
+    "title": "数据库规范",
+    "lines": "316-389",
+    "start": 316,
+    "end": 389,
+    "chars": 351
+   },
+   {
+    "title": "安全规范（强制）",
+    "lines": "390-457",
+    "start": 390,
+    "end": 457,
+    "chars": 393
+   },
+   {
+    "title": "性能规范",
+    "lines": "458-523",
+    "start": 458,
+    "end": 523,
+    "chars": 291
+   },
+   {
+    "title": "代码产出规范",
+    "lines": "524-585",
+    "start": 524,
+    "end": 585,
+    "chars": 313
+   },
+   {
+    "title": "开发顺序（强制）",
+    "lines": "586-623",
+    "start": 586,
+    "end": 623,
+    "chars": 322
+   },
+   {
+    "title": "常见错误清单（自查用）",
+    "lines": "624-665",
+    "start": 624,
+    "end": 665,
+    "chars": 308
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "666-707",
+    "start": 666,
+    "end": 707,
+    "chars": 297
+   },
+   {
+    "title": "待确认清单（阻塞项）",
+    "lines": "708-733",
+    "start": 708,
+    "end": 733,
+    "chars": 154
+   },
+   {
+    "title": "下一步",
+    "lines": "734-751",
+    "start": 734,
+    "end": 751,
+    "chars": 68
+   }
+  ]
+ },
+ {
+  "file": "开发/开发：网页前后端/杂志，报纸，手绘风教程.md",
+  "name": "杂志，报纸，手绘风教程",
+  "title": "杂志风 / 报纸风 / 手绘风网页实现规范",
+  "total_lines": 624,
+  "total_chars": 10532,
+  "split_level": "part",
+  "segments": [
+   {
+    "title": "杂志风（Magazine Style）",
+    "lines": "25-185",
+    "start": 25,
+    "end": 185,
+    "chars": 2663
+   },
+   {
+    "title": "报纸风（Newspaper Style）",
+    "lines": "186-351",
+    "start": 186,
+    "end": 351,
+    "chars": 2800
+   },
+   {
+    "title": "手绘风（Hand-drawn Style）",
+    "lines": "352-624",
+    "start": 352,
+    "end": 624,
+    "chars": 4555
+   }
+  ]
+ },
+ {
+  "file": "开发/开发：网页前后端/植物风网页教程.md",
+  "name": "植物风网页教程",
+  "title": "植物风网页实现规范",
+  "total_lines": 695,
+  "total_chars": 13329,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "文档目的",
+    "lines": "1-5",
+    "start": 1,
+    "end": 5,
+    "chars": 165
+   },
+   {
+    "title": "植物风的核心气质",
+    "lines": "6-24",
+    "start": 6,
+    "end": 24,
+    "chars": 386
+   },
+   {
+    "title": "设计系统参数（必须遵守）",
+    "lines": "25-192",
+    "start": 25,
+    "end": 192,
+    "chars": 3136
+   },
+   {
+    "title": "核心组件实现",
+    "lines": "193-434",
+    "start": 193,
+    "end": 434,
+    "chars": 4626
+   },
+   {
+    "title": "植物元素使用规范",
+    "lines": "435-472",
+    "start": 435,
+    "end": 472,
+    "chars": 300
+   },
+   {
+    "title": "动效规范",
+    "lines": "473-525",
+    "start": 473,
+    "end": 525,
+    "chars": 1088
+   },
+   {
+    "title": "页面结构模板",
+    "lines": "526-620",
+    "start": 526,
+    "end": 620,
+    "chars": 2405
+   },
+   {
+    "title": "植物风 vs 其他风格对照",
+    "lines": "621-633",
+    "start": 621,
+    "end": 633,
+    "chars": 360
+   },
+   {
+    "title": "常见错误清单（产出前自查）",
+    "lines": "634-653",
+    "start": 634,
+    "end": 653,
+    "chars": 349
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "654-682",
+    "start": 654,
+    "end": 682,
+    "chars": 348
+   },
+   {
+    "title": "待确认清单（收到任务时填写）",
+    "lines": "683-695",
+    "start": 683,
+    "end": 695,
+    "chars": 156
+   }
+  ]
+ },
+ {
+  "file": "开发/开发：网页前后端/游戏宣传页面教程.md",
+  "name": "游戏宣传页面教程",
+  "title": "游戏宣传页（Landing Page）实现规范",
+  "total_lines": 1461,
+  "total_chars": 14112,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "文档目的",
+    "lines": "2-11",
+    "start": 2,
+    "end": 11,
+    "chars": 150
+   },
+   {
+    "title": "游戏宣传页的核心目标",
+    "lines": "12-59",
+    "start": 12,
+    "end": 59,
+    "chars": 346
+   },
+   {
+    "title": "必须先确认的信息",
+    "lines": "60-109",
+    "start": 60,
+    "end": 109,
+    "chars": 438
+   },
+   {
+    "title": "页面结构（标准 7 屏）",
+    "lines": "110-353",
+    "start": 110,
+    "end": 353,
+    "chars": 1105
+   },
+   {
+    "title": "设计系统参数",
+    "lines": "354-515",
+    "start": 354,
+    "end": 515,
+    "chars": 1454
+   },
+   {
+    "title": "核心组件实现",
+    "lines": "516-961",
+    "start": 516,
+    "end": 961,
+    "chars": 4997
+   },
+   {
+    "title": "技术要点",
+    "lines": "962-1095",
+    "start": 962,
+    "end": 1095,
+    "chars": 1509
+   },
+   {
+    "title": "页面结构模板",
+    "lines": "1096-1287",
+    "start": 1096,
+    "end": 1287,
+    "chars": 2950
+   },
+   {
+    "title": "转化优化要点",
+    "lines": "1288-1339",
+    "start": 1288,
+    "end": 1339,
+    "chars": 223
+   },
+   {
+    "title": "常见错误清单（产出前自查）",
+    "lines": "1340-1377",
+    "start": 1340,
+    "end": 1377,
+    "chars": 375
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "1378-1431",
+    "start": 1378,
+    "end": 1431,
+    "chars": 336
+   },
+   {
+    "title": "待确认清单（收到任务时填写）",
+    "lines": "1432-1461",
+    "start": 1432,
+    "end": 1461,
+    "chars": 183
+   }
+  ]
+ },
+ {
+  "file": "开发/开发：网页前后端/登录页面与社区的实现教程.md",
+  "name": "登录页面与社区的实现教程",
+  "title": "登录页面与社区页面实现规范",
+  "total_lines": 2343,
+  "total_chars": 24372,
+  "split_level": "part",
+  "segments": [
+   {
+    "title": "登录页面（Login Page）",
+    "lines": "24-1033",
+    "start": 24,
+    "end": 1033,
+    "chars": 11452
+   },
+   {
+    "title": "社区页面（Community Page）",
+    "lines": "1034-2343",
+    "start": 1034,
+    "end": 2343,
+    "chars": 12708
+   }
+  ]
+ },
+ {
+  "file": "开发/开发：网页前后端/简约风教程.md",
+  "name": "简约风教程",
+  "title": "简约风网页实现规范",
+  "total_lines": 1107,
+  "total_chars": 10799,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "文档目的",
+    "lines": "2-11",
+    "start": 2,
+    "end": 11,
+    "chars": 159
+   },
+   {
+    "title": "简约风 vs 苹果风 vs 简陋",
+    "lines": "12-55",
+    "start": 12,
+    "end": 55,
+    "chars": 342
+   },
+   {
+    "title": "简约风的核心设计语言",
+    "lines": "56-79",
+    "start": 56,
+    "end": 79,
+    "chars": 230
+   },
+   {
+    "title": "设计系统参数（必须遵守）",
+    "lines": "80-347",
+    "start": 80,
+    "end": 347,
+    "chars": 2379
+   },
+   {
+    "title": "核心组件实现",
+    "lines": "348-693",
+    "start": 348,
+    "end": 693,
+    "chars": 3179
+   },
+   {
+    "title": "布局规范",
+    "lines": "694-759",
+    "start": 694,
+    "end": 759,
+    "chars": 627
+   },
+   {
+    "title": "动效规范",
+    "lines": "760-793",
+    "start": 760,
+    "end": 793,
+    "chars": 262
+   },
+   {
+    "title": "页面结构模板",
+    "lines": "794-953",
+    "start": 794,
+    "end": 953,
+    "chars": 2341
+   },
+   {
+    "title": "简约风 vs 苹果风 vs 简陋 对照",
+    "lines": "954-987",
+    "start": 954,
+    "end": 987,
+    "chars": 403
+   },
+   {
+    "title": "常见错误清单（产出前自查）",
+    "lines": "988-1025",
+    "start": 988,
+    "end": 1025,
+    "chars": 337
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "1026-1083",
+    "start": 1026,
+    "end": 1083,
+    "chars": 344
+   },
+   {
+    "title": "待确认清单（收到任务时填写）",
+    "lines": "1084-1107",
+    "start": 1084,
+    "end": 1107,
+    "chars": 164
+   }
+  ]
+ },
+ {
+  "file": "开发/开发：网页前后端/网页开发教程（万能）.md",
+  "name": "网页开发教程（万能）",
+  "title": "网页开发任务执行规范",
+  "total_lines": 571,
+  "total_chars": 4276,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "文档目的",
+    "lines": "2-11",
+    "start": 2,
+    "end": 11,
+    "chars": 98
+   },
+   {
+    "title": "任务接收阶段",
+    "lines": "12-81",
+    "start": 12,
+    "end": 81,
+    "chars": 556
+   },
+   {
+    "title": "代码产出规范",
+    "lines": "82-235",
+    "start": 82,
+    "end": 235,
+    "chars": 1243
+   },
+   {
+    "title": "页面实现标准",
+    "lines": "236-327",
+    "start": 236,
+    "end": 327,
+    "chars": 755
+   },
+   {
+    "title": "常见页面类型的实现要点",
+    "lines": "328-393",
+    "start": 328,
+    "end": 393,
+    "chars": 383
+   },
+   {
+    "title": "验证标准",
+    "lines": "394-425",
+    "start": 394,
+    "end": 425,
+    "chars": 250
+   },
+   {
+    "title": "交付格式",
+    "lines": "426-473",
+    "start": 426,
+    "end": 473,
+    "chars": 267
+   },
+   {
+    "title": "常见错误清单（产出前自查）",
+    "lines": "474-503",
+    "start": 474,
+    "end": 503,
+    "chars": 268
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "504-545",
+    "start": 504,
+    "end": 545,
+    "chars": 281
+   },
+   {
+    "title": "待确认清单（收到任务时填写）",
+    "lines": "546-571",
+    "start": 546,
+    "end": 571,
+    "chars": 144
+   }
+  ]
+ },
+ {
+  "file": "开发/开发：网页前后端/聊天页面实现.md",
+  "name": "聊天页面实现",
+  "title": "天功能实现教程（给 AI 的协作规范）",
+  "total_lines": 455,
+  "total_chars": 6689,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "先确认：你要做的是哪种“聊天”？",
+    "lines": "2-25",
+    "start": 2,
+    "end": 25,
+    "chars": 268
+   },
+   {
+    "title": "必须先确认的六个问题",
+    "lines": "26-45",
+    "start": 26,
+    "end": 45,
+    "chars": 261
+   },
+   {
+    "title": "核心架构（以公共聊天室为例）",
+    "lines": "46-75",
+    "start": 46,
+    "end": 75,
+    "chars": 185
+   },
+   {
+    "title": "服务端实现（Node.js + ws）",
+    "lines": "76-153",
+    "start": 76,
+    "end": 153,
+    "chars": 1137
+   },
+   {
+    "title": "客户端实现（单 HTML 文件）",
+    "lines": "154-295",
+    "start": 154,
+    "end": 295,
+    "chars": 3198
+   },
+   {
+    "title": "关键注意事项",
+    "lines": "296-357",
+    "start": 296,
+    "end": 357,
+    "chars": 690
+   },
+   {
+    "title": "进阶方案（按需选择）",
+    "lines": "358-379",
+    "start": 358,
+    "end": 379,
+    "chars": 332
+   },
+   {
+    "title": "常见错误清单",
+    "lines": "380-401",
+    "start": 380,
+    "end": 401,
+    "chars": 207
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "402-435",
+    "start": 402,
+    "end": 435,
+    "chars": 267
+   },
+   {
+    "title": "待确认清单",
+    "lines": "436-455",
+    "start": 436,
+    "end": 455,
+    "chars": 115
+   }
+  ]
+ },
+ {
+  "file": "开发/开发：网页前后端/苹果风网页开发教程.md",
+  "name": "苹果风网页开发教程",
+  "title": "苹果风网页实现规范",
+  "total_lines": 735,
+  "total_chars": 7912,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "文档目的",
+    "lines": "2-11",
+    "start": 2,
+    "end": 11,
+    "chars": 134
+   },
+   {
+    "title": "苹果风的核心设计语言",
+    "lines": "12-35",
+    "start": 12,
+    "end": 35,
+    "chars": 227
+   },
+   {
+    "title": "设计系统参数（必须遵守）",
+    "lines": "36-215",
+    "start": 36,
+    "end": 215,
+    "chars": 2038
+   },
+   {
+    "title": "核心组件实现",
+    "lines": "216-415",
+    "start": 216,
+    "end": 415,
+    "chars": 1970
+   },
+   {
+    "title": "动效规范",
+    "lines": "416-489",
+    "start": 416,
+    "end": 489,
+    "chars": 802
+   },
+   {
+    "title": "页面结构模板",
+    "lines": "490-615",
+    "start": 490,
+    "end": 615,
+    "chars": 1718
+   },
+   {
+    "title": "苹果风 vs 非苹果风对照",
+    "lines": "616-639",
+    "start": 616,
+    "end": 639,
+    "chars": 235
+   },
+   {
+    "title": "常见错误清单（产出前自查）",
+    "lines": "640-671",
+    "start": 640,
+    "end": 671,
+    "chars": 301
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "672-713",
+    "start": 672,
+    "end": 713,
+    "chars": 308
+   },
+   {
+    "title": "待确认清单（收到任务时填写）",
+    "lines": "714-735",
+    "start": 714,
+    "end": 735,
+    "chars": 149
+   }
+  ]
+ },
+ {
+  "file": "开发/报错处理.md",
+  "name": "报错处理",
+  "title": "一、文档目的",
+  "total_lines": 751,
+  "total_chars": 4529,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "文档目的",
+    "lines": "1-13",
+    "start": 1,
+    "end": 13,
+    "chars": 159
+   },
+   {
+    "title": "报错处理的核心原则",
+    "lines": "14-61",
+    "start": 14,
+    "end": 61,
+    "chars": 309
+   },
+   {
+    "title": "报错信息收集规范",
+    "lines": "62-153",
+    "start": 62,
+    "end": 153,
+    "chars": 579
+   },
+   {
+    "title": "最小复现规范",
+    "lines": "154-231",
+    "start": 154,
+    "end": 231,
+    "chars": 407
+   },
+   {
+    "title": "报错分类与定位",
+    "lines": "232-323",
+    "start": 232,
+    "end": 323,
+    "chars": 558
+   },
+   {
+    "title": "原因分析与修复规范",
+    "lines": "324-431",
+    "start": 324,
+    "end": 431,
+    "chars": 459
+   },
+   {
+    "title": "验证与回归规范",
+    "lines": "432-489",
+    "start": 432,
+    "end": 489,
+    "chars": 291
+   },
+   {
+    "title": "常见报错速查",
+    "lines": "490-545",
+    "start": 490,
+    "end": 545,
+    "chars": 693
+   },
+   {
+    "title": "防复发规范",
+    "lines": "546-623",
+    "start": 546,
+    "end": 623,
+    "chars": 343
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "624-665",
+    "start": 624,
+    "end": 665,
+    "chars": 247
+   },
+   {
+    "title": "报错处理流程总览",
+    "lines": "666-723",
+    "start": 666,
+    "end": 723,
+    "chars": 291
+   },
+   {
+    "title": "待确认清单（提交报错时填写）",
+    "lines": "724-751",
+    "start": 724,
+    "end": 751,
+    "chars": 182
+   }
+  ]
+ },
+ {
+  "file": "开发/游戏系统深度实现规范.md",
+  "name": "游戏系统深度实现规范",
+  "title": "游戏系统深度实现规范",
+  "total_lines": 476,
+  "total_chars": 6558,
+  "split_level": "part",
+  "segments": [
+   {
+    "title": "游戏存档",
+    "lines": "6-77",
+    "start": 6,
+    "end": 77,
+    "chars": 1097
+   },
+   {
+    "title": "游戏经济系统",
+    "lines": "78-130",
+    "start": 78,
+    "end": 130,
+    "chars": 626
+   },
+   {
+    "title": "游戏匹配",
+    "lines": "131-175",
+    "start": 131,
+    "end": 175,
+    "chars": 827
+   },
+   {
+    "title": "游戏反作弊",
+    "lines": "176-224",
+    "start": 176,
+    "end": 224,
+    "chars": 570
+   },
+   {
+    "title": "游戏本地化",
+    "lines": "225-270",
+    "start": 225,
+    "end": 270,
+    "chars": 729
+   },
+   {
+    "title": "游戏音频",
+    "lines": "271-332",
+    "start": 271,
+    "end": 332,
+    "chars": 985
+   },
+   {
+    "title": "游戏动画",
+    "lines": "333-377",
+    "start": 333,
+    "end": 377,
+    "chars": 778
+   },
+   {
+    "title": "游戏 AI",
+    "lines": "378-476",
+    "start": 378,
+    "end": 476,
+    "chars": 836
+   }
+  ]
+ },
+ {
+  "file": "开发/素材获取.md",
+  "name": "素材获取",
+  "title": "素材获取教程：从网络获取可用的图片、音效与 3D 模型",
+  "total_lines": 317,
+  "total_chars": 3525,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "核心原则：先看授权，再下载",
+    "lines": "2-25",
+    "start": 2,
+    "end": 25,
+    "chars": 393
+   },
+   {
+    "title": "2D 美术与精灵图资源",
+    "lines": "26-87",
+    "start": 26,
+    "end": 87,
+    "chars": 708
+   },
+   {
+    "title": "音效与音乐资源",
+    "lines": "88-153",
+    "start": 88,
+    "end": 153,
+    "chars": 798
+   },
+   {
+    "title": "3D 模型与动画资源",
+    "lines": "154-197",
+    "start": 154,
+    "end": 197,
+    "chars": 447
+   },
+   {
+    "title": "图片与纹理（通用）",
+    "lines": "198-241",
+    "start": 198,
+    "end": 241,
+    "chars": 366
+   },
+   {
+    "title": "素材管理：下载之后做什么",
+    "lines": "242-291",
+    "start": 242,
+    "end": 291,
+    "chars": 434
+   },
+   {
+    "title": "快速决策指南",
+    "lines": "292-311",
+    "start": 292,
+    "end": 311,
+    "chars": 280
+   },
+   {
+    "title": "一句话总结",
+    "lines": "312-317",
+    "start": 312,
+    "end": 317,
+    "chars": 64
+   }
+  ]
+ },
+ {
+  "file": "开发/编程：游戏制作/2d.md",
+  "name": "2d",
+  "title": "一、文档目的",
+  "total_lines": 985,
+  "total_chars": 5879,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "文档目的",
+    "lines": "1-29",
+    "start": 1,
+    "end": 29,
+    "chars": 150
+   },
+   {
+    "title": "项目定义",
+    "lines": "30-77",
+    "start": 30,
+    "end": 77,
+    "chars": 283
+   },
+   {
+    "title": "技术栈决策",
+    "lines": "78-143",
+    "start": 78,
+    "end": 143,
+    "chars": 658
+   },
+   {
+    "title": "2D 游戏的标准模块清单",
+    "lines": "144-555",
+    "start": 144,
+    "end": 555,
+    "chars": 1788
+   },
+   {
+    "title": "代码产出规范",
+    "lines": "556-687",
+    "start": 556,
+    "end": 687,
+    "chars": 1210
+   },
+   {
+    "title": "方案输出规范",
+    "lines": "688-747",
+    "start": 688,
+    "end": 747,
+    "chars": 367
+   },
+   {
+    "title": "调试规范",
+    "lines": "748-833",
+    "start": 748,
+    "end": 833,
+    "chars": 256
+   },
+   {
+    "title": "开发顺序（强制）",
+    "lines": "834-871",
+    "start": 834,
+    "end": 871,
+    "chars": 337
+   },
+   {
+    "title": "常见错误清单（其他 AI 必读）",
+    "lines": "872-901",
+    "start": 872,
+    "end": 901,
+    "chars": 312
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "902-943",
+    "start": 902,
+    "end": 943,
+    "chars": 292
+   },
+   {
+    "title": "待确认清单（阻塞项）",
+    "lines": "944-967",
+    "start": 944,
+    "end": 967,
+    "chars": 145
+   },
+   {
+    "title": "下一步",
+    "lines": "968-985",
+    "start": 968,
+    "end": 985,
+    "chars": 70
+   }
+  ]
+ },
+ {
+  "file": "开发/编程：游戏制作/3d.md",
+  "name": "3d",
+  "title": "一、文档目的",
+  "total_lines": 1343,
+  "total_chars": 9117,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "文档目的",
+    "lines": "1-33",
+    "start": 1,
+    "end": 33,
+    "chars": 204
+   },
+   {
+    "title": "项目定义",
+    "lines": "34-109",
+    "start": 34,
+    "end": 109,
+    "chars": 620
+   },
+   {
+    "title": "技术栈决策",
+    "lines": "110-189",
+    "start": 110,
+    "end": 189,
+    "chars": 787
+   },
+   {
+    "title": "3D 游戏的标准模块清单",
+    "lines": "190-779",
+    "start": 190,
+    "end": 779,
+    "chars": 2902
+   },
+   {
+    "title": "代码产出规范",
+    "lines": "780-971",
+    "start": 780,
+    "end": 971,
+    "chars": 2118
+   },
+   {
+    "title": "方案输出规范",
+    "lines": "972-1045",
+    "start": 972,
+    "end": 1045,
+    "chars": 498
+   },
+   {
+    "title": "调试规范",
+    "lines": "1046-1143",
+    "start": 1046,
+    "end": 1143,
+    "chars": 322
+   },
+   {
+    "title": "开发顺序（强制）",
+    "lines": "1144-1187",
+    "start": 1144,
+    "end": 1187,
+    "chars": 427
+   },
+   {
+    "title": "常见错误清单（其他 AI 必读）",
+    "lines": "1188-1245",
+    "start": 1188,
+    "end": 1245,
+    "chars": 589
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "1246-1295",
+    "start": 1246,
+    "end": 1295,
+    "chars": 375
+   },
+   {
+    "title": "待确认清单（阻塞项）",
+    "lines": "1296-1325",
+    "start": 1296,
+    "end": 1325,
+    "chars": 179
+   },
+   {
+    "title": "下一步",
+    "lines": "1326-1343",
+    "start": 1326,
+    "end": 1343,
+    "chars": 85
+   }
+  ]
+ },
+ {
+  "file": "开发/编程：游戏制作/UE5 MCP 深度教程.md",
+  "name": "UE5 MCP 深度教程",
+  "title": "UE5 MCP 深度教程",
+  "total_lines": 451,
+  "total_chars": 12628,
+  "split_level": "num",
+  "segments": [
+   {
+    "title": "本文档解决什么",
+    "lines": "7-14",
+    "start": 7,
+    "end": 14,
+    "chars": 137
+   },
+   {
+    "title": "什么时候不该读本文档",
+    "lines": "15-24",
+    "start": 15,
+    "end": 24,
+    "chars": 321
+   },
+   {
+    "title": "与 `引擎怎么用.md` 的分工",
+    "lines": "25-34",
+    "start": 25,
+    "end": 34,
+    "chars": 148
+   },
+   {
+    "title": "路线 A：官方 Unreal MCP 插件（UE 5.8+，首选）",
+    "lines": "35-55",
+    "start": 35,
+    "end": 55,
+    "chars": 759
+   },
+   {
+    "title": "路线 B：第三方 MCP 桥接",
+    "lines": "56-65",
+    "start": 56,
+    "end": 65,
+    "chars": 254
+   },
+   {
+    "title": "路线 C：Python 远程执行 / Editor Utility",
+    "lines": "66-71",
+    "start": 66,
+    "end": 71,
+    "chars": 178
+   },
+   {
+    "title": "选型决策表",
+    "lines": "72-86",
+    "start": 72,
+    "end": 86,
+    "chars": 257
+   },
+   {
+    "title": "前置条件检查",
+    "lines": "87-95",
+    "start": 87,
+    "end": 95,
+    "chars": 285
+   },
+   {
+    "title": "启用插件",
+    "lines": "96-108",
+    "start": 96,
+    "end": 108,
+    "chars": 277
+   },
+   {
+    "title": "启动 MCP 服务器的三种方式",
+    "lines": "109-137",
+    "start": 109,
+    "end": 137,
+    "chars": 601
+   },
+   {
+    "title": "生成客户端配置",
+    "lines": "138-153",
+    "start": 138,
+    "end": 153,
+    "chars": 418
+   },
+   {
+    "title": "各客户端配置对照",
+    "lines": "154-177",
+    "start": 154,
+    "end": 177,
+    "chars": 508
+   },
+   {
+    "title": "验证连接",
+    "lines": "178-189",
+    "start": 178,
+    "end": 189,
+    "chars": 278
+   },
+   {
+    "title": "默认 Toolsets（All Toolsets 加载，多数由 Python 编写）",
+    "lines": "190-204",
+    "start": 190,
+    "end": 204,
+    "chars": 471
+   },
+   {
+    "title": "Tool Search 与三个 meta-tool",
+    "lines": "205-221",
+    "start": 205,
+    "end": 221,
+    "chars": 577
+   },
+   {
+    "title": "自定义 Toolset",
+    "lines": "222-231",
+    "start": 222,
+    "end": 231,
+    "chars": 345
+   },
+   {
+    "title": "官方插件做不到的（别让 AI 硬试）",
+    "lines": "232-243",
+    "start": 232,
+    "end": 243,
+    "chars": 226
+   },
+   {
+    "title": "批量场景处理",
+    "lines": "244-249",
+    "start": 244,
+    "end": 249,
+    "chars": 180
+   },
+   {
+    "title": "材质与实例",
+    "lines": "250-254",
+    "start": 250,
+    "end": 254,
+    "chars": 116
+   },
+   {
+    "title": "自动化测试",
+    "lines": "255-259",
+    "start": 255,
+    "end": 259,
+    "chars": 89
+   },
+   {
+    "title": "编辑器内 Terminal 联动（可选，体验最好）",
+    "lines": "260-276",
+    "start": 260,
+    "end": 276,
+    "chars": 402
+   },
+   {
+    "title": "传输与安全",
+    "lines": "277-284",
+    "start": 277,
+    "end": 284,
+    "chars": 247
+   },
+   {
+    "title": "线程模型",
+    "lines": "285-289",
+    "start": 285,
+    "end": 289,
+    "chars": 120
+   },
+   {
+    "title": "热重载限制",
+    "lines": "290-295",
+    "start": 290,
+    "end": 295,
+    "chars": 193
+   },
+   {
+    "title": "编辑器与运行时差异",
+    "lines": "296-301",
+    "start": 296,
+    "end": 301,
+    "chars": 228
+   },
+   {
+    "title": "成熟度",
+    "lines": "302-311",
+    "start": 302,
+    "end": 311,
+    "chars": 145
+   },
+   {
+    "title": "agent 连不上 Unreal MCP",
+    "lines": "312-320",
+    "start": 312,
+    "end": 320,
+    "chars": 271
+   },
+   {
+    "title": "工具列表只有 3 个 / 看不到具体工具",
+    "lines": "321-325",
+    "start": 321,
+    "end": 325,
+    "chars": 177
+   },
+   {
+    "title": "自定义 Tool 改了没生效",
+    "lines": "326-330",
+    "start": 326,
+    "end": 330,
+    "chars": 111
+   },
+   {
+    "title": "Codex 配置陈旧",
+    "lines": "331-335",
+    "start": 331,
+    "end": 335,
+    "chars": 100
+   },
+   {
+    "title": "编辑器内终端输出乱码 / CLI 行为异常",
+    "lines": "336-339",
+    "start": 336,
+    "end": 339,
+    "chars": 91
+   },
+   {
+    "title": "端口被占用",
+    "lines": "340-347",
+    "start": 340,
+    "end": 347,
+    "chars": 100
+   },
+   {
+    "title": "官方主渠道：Fab",
+    "lines": "348-362",
+    "start": 348,
+    "end": 362,
+    "chars": 521
+   },
+   {
+    "title": "Quixel 现状：Megascans 与 Megaplants",
+    "lines": "363-371",
+    "start": 363,
+    "end": 371,
+    "chars": 377
+   },
+   {
+    "title": "CC0 素材站清单（免费、可商用、多数无需署名）",
+    "lines": "372-384",
+    "start": 372,
+    "end": 384,
+    "chars": 807
+   },
+   {
+    "title": "角色与动画",
+    "lines": "385-391",
+    "start": 385,
+    "end": 391,
+    "chars": 223
+   },
+   {
+    "title": "音频",
+    "lines": "392-401",
+    "start": 392,
+    "end": 401,
+    "chars": 337
+   },
+   {
+    "title": "授权速查与红线",
+    "lines": "402-422",
+    "start": 402,
+    "end": 422,
+    "chars": 714
+   },
+   {
+    "title": "素材落地 UE5 的管线要点",
+    "lines": "423-435",
+    "start": 423,
+    "end": 435,
+    "chars": 313
+   },
+   {
+    "title": "硬性要求清单",
+    "lines": "436-451",
+    "start": 436,
+    "end": 451,
+    "chars": 551
+   }
+  ]
+ },
+ {
+  "file": "开发/编程：游戏制作/UE5 引擎使用知识手册.md",
+  "name": "UE5 引擎使用知识手册",
+  "title": "UE5 引擎使用知识手册",
+  "total_lines": 538,
+  "total_chars": 13718,
+  "split_level": "num",
+  "segments": [
+   {
+    "title": "本文档解决什么",
+    "lines": "8-12",
+    "start": 8,
+    "end": 12,
+    "chars": 80
+   },
+   {
+    "title": "什么时候不该读",
+    "lines": "13-22",
+    "start": 13,
+    "end": 22,
+    "chars": 278
+   },
+   {
+    "title": "版本声明",
+    "lines": "23-31",
+    "start": 23,
+    "end": 31,
+    "chars": 108
+   },
+   {
+    "title": "版本选择",
+    "lines": "32-39",
+    "start": 32,
+    "end": 39,
+    "chars": 287
+   },
+   {
+    "title": "安装",
+    "lines": "40-44",
+    "start": 40,
+    "end": 44,
+    "chars": 103
+   },
+   {
+    "title": "必装的引擎插件（按需）",
+    "lines": "45-56",
+    "start": 45,
+    "end": 56,
+    "chars": 322
+   },
+   {
+    "title": "环境红线",
+    "lines": "57-66",
+    "start": 57,
+    "end": 66,
+    "chars": 179
+   },
+   {
+    "title": "顶层目录",
+    "lines": "67-77",
+    "start": 67,
+    "end": 77,
+    "chars": 310
+   },
+   {
+    "title": "C++ 模块",
+    "lines": "78-84",
+    "start": 78,
+    "end": 84,
+    "chars": 261
+   },
+   {
+    "title": "Content 目录组织（强烈建议提前定死）",
+    "lines": "85-103",
+    "start": 85,
+    "end": 103,
+    "chars": 368
+   },
+   {
+    "title": "类层次",
+    "lines": "104-109",
+    "start": 104,
+    "end": 109,
+    "chars": 207
+   },
+   {
+    "title": "框架类分工（最常搞混的一组）",
+    "lines": "110-124",
+    "start": 110,
+    "end": 124,
+    "chars": 599
+   },
+   {
+    "title": "Subsystem（UE5 推荐的解耦方式）",
+    "lines": "125-131",
+    "start": 125,
+    "end": 131,
+    "chars": 233
+   },
+   {
+    "title": "生命周期顺序",
+    "lines": "132-146",
+    "start": 132,
+    "end": 146,
+    "chars": 322
+   },
+   {
+    "title": "决策表",
+    "lines": "147-157",
+    "start": 147,
+    "end": 157,
+    "chars": 210
+   },
+   {
+    "title": "推荐混合模式",
+    "lines": "158-166",
+    "start": 158,
+    "end": 166,
+    "chars": 315
+   },
+   {
+    "title": "一条重要变更",
+    "lines": "167-171",
+    "start": 167,
+    "end": 171,
+    "chars": 104
+   },
+   {
+    "title": "蓝图侧的坑",
+    "lines": "172-182",
+    "start": 172,
+    "end": 182,
+    "chars": 206
+   },
+   {
+    "title": "Nanite",
+    "lines": "183-192",
+    "start": 183,
+    "end": 192,
+    "chars": 195
+   },
+   {
+    "title": "Lumen",
+    "lines": "193-197",
+    "start": 193,
+    "end": 197,
+    "chars": 80
+   },
+   {
+    "title": "其他关键项",
+    "lines": "198-208",
+    "start": 198,
+    "end": 208,
+    "chars": 305
+   },
+   {
+    "title": "渲染向的常见误判",
+    "lines": "209-218",
+    "start": 209,
+    "end": 218,
+    "chars": 196
+   },
+   {
+    "title": "资产与对象",
+    "lines": "219-224",
+    "start": 219,
+    "end": 224,
+    "chars": 169
+   },
+   {
+    "title": "AnimBP 结构",
+    "lines": "225-229",
+    "start": 225,
+    "end": 229,
+    "chars": 124
+   },
+   {
+    "title": "关键工具",
+    "lines": "230-241",
+    "start": 230,
+    "end": 241,
+    "chars": 419
+   },
+   {
+    "title": "动画实战要点",
+    "lines": "242-254",
+    "start": 242,
+    "end": 254,
+    "chars": 302
+   },
+   {
+    "title": "UMG 基础",
+    "lines": "255-262",
+    "start": 255,
+    "end": 262,
+    "chars": 208
+   },
+   {
+    "title": "显示与移除",
+    "lines": "263-268",
+    "start": 263,
+    "end": 268,
+    "chars": 166
+   },
+   {
+    "title": "输入模式",
+    "lines": "269-274",
+    "start": 269,
+    "end": 274,
+    "chars": 161
+   },
+   {
+    "title": "导航与手柄（CommonUI）",
+    "lines": "275-281",
+    "start": 275,
+    "end": 281,
+    "chars": 175
+   },
+   {
+    "title": "Enhanced Input",
+    "lines": "282-287",
+    "start": 282,
+    "end": 287,
+    "chars": 199
+   },
+   {
+    "title": "UI 性能",
+    "lines": "288-298",
+    "start": 288,
+    "end": 298,
+    "chars": 218
+   },
+   {
+    "title": "World Partition",
+    "lines": "299-305",
+    "start": 299,
+    "end": 305,
+    "chars": 190
+   },
+   {
+    "title": "HLOD",
+    "lines": "306-310",
+    "start": 306,
+    "end": 310,
+    "chars": 81
+   },
+   {
+    "title": "地形与植被",
+    "lines": "311-317",
+    "start": 311,
+    "end": 317,
+    "chars": 245
+   },
+   {
+    "title": "关卡复用",
+    "lines": "318-326",
+    "start": 318,
+    "end": 326,
+    "chars": 119
+   },
+   {
+    "title": "Chaos",
+    "lines": "327-330",
+    "start": 327,
+    "end": 330,
+    "chars": 82
+   },
+   {
+    "title": "碰撞三要素",
+    "lines": "331-338",
+    "start": 331,
+    "end": 338,
+    "chars": 234
+   },
+   {
+    "title": "高频踩坑",
+    "lines": "339-350",
+    "start": 339,
+    "end": 350,
+    "chars": 267
+   },
+   {
+    "title": "网络模式",
+    "lines": "351-359",
+    "start": 351,
+    "end": 359,
+    "chars": 164
+   },
+   {
+    "title": "复制与 RPC",
+    "lines": "360-366",
+    "start": 360,
+    "end": 366,
+    "chars": 261
+   },
+   {
+    "title": "铁律",
+    "lines": "367-380",
+    "start": 367,
+    "end": 380,
+    "chars": 291
+   },
+   {
+    "title": "命名规范（团队必须统一）",
+    "lines": "381-398",
+    "start": 381,
+    "end": 398,
+    "chars": 347
+   },
+   {
+    "title": "重定向器（Redirector）",
+    "lines": "399-405",
+    "start": 399,
+    "end": 405,
+    "chars": 177
+   },
+   {
+    "title": "导入要点",
+    "lines": "406-412",
+    "start": 406,
+    "end": 412,
+    "chars": 173
+   },
+   {
+    "title": "引用与加载",
+    "lines": "413-420",
+    "start": 413,
+    "end": 420,
+    "chars": 261
+   },
+   {
+    "title": "Derived Data Cache（DDC）",
+    "lines": "421-429",
+    "start": 421,
+    "end": 429,
+    "chars": 128
+   },
+   {
+    "title": "先看数据再动手",
+    "lines": "430-443",
+    "start": 430,
+    "end": 443,
+    "chars": 417
+   },
+   {
+    "title": "常见瓶颈与对应手段",
+    "lines": "444-455",
+    "start": 444,
+    "end": 455,
+    "chars": 420
+   },
+   {
+    "title": "一条硬经验",
+    "lines": "456-464",
+    "start": 456,
+    "end": 464,
+    "chars": 104
+   },
+   {
+    "title": "打包前检查清单",
+    "lines": "465-474",
+    "start": 465,
+    "end": 474,
+    "chars": 330
+   },
+   {
+    "title": "打包失败高频原因",
+    "lines": "475-487",
+    "start": 475,
+    "end": 487,
+    "chars": 284
+   },
+   {
+    "title": "体积与更新",
+    "lines": "488-496",
+    "start": 488,
+    "end": 496,
+    "chars": 100
+   },
+   {
+    "title": "二十条速查表",
+    "lines": "497-525",
+    "start": 497,
+    "end": 525,
+    "chars": 966
+   },
+   {
+    "title": "硬性要求清单",
+    "lines": "526-538",
+    "start": 526,
+    "end": 538,
+    "chars": 423
+   }
+  ]
+ },
+ {
+  "file": "开发/编程：游戏制作/全自动开发.md",
+  "name": "全自动开发",
+  "title": "全自动 MCP 使用规范",
+  "total_lines": 433,
+  "total_chars": 4662,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "文档定位",
+    "lines": "2-11",
+    "start": 2,
+    "end": 11,
+    "chars": 149
+   },
+   {
+    "title": "必须先确认的四项",
+    "lines": "12-27",
+    "start": 12,
+    "end": 27,
+    "chars": 249
+   },
+   {
+    "title": "各引擎的全自动 MCP 工具",
+    "lines": "28-237",
+    "start": 28,
+    "end": 237,
+    "chars": 2109
+   },
+   {
+    "title": "全自动 MCP 的执行规范",
+    "lines": "238-317",
+    "start": 238,
+    "end": 317,
+    "chars": 988
+   },
+   {
+    "title": "全自动 MCP 的安全审计",
+    "lines": "318-351",
+    "start": 318,
+    "end": 351,
+    "chars": 428
+   },
+   {
+    "title": "常见错误清单",
+    "lines": "352-373",
+    "start": 352,
+    "end": 373,
+    "chars": 227
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "374-411",
+    "start": 374,
+    "end": 411,
+    "chars": 336
+   },
+   {
+    "title": "待确认清单（收到任务时填写）",
+    "lines": "412-433",
+    "start": 412,
+    "end": 433,
+    "chars": 145
+   }
+  ]
+ },
+ {
+  "file": "开发/编程：游戏制作/引擎怎么用.md",
+  "name": "引擎怎么用",
+  "title": "面向各大引擎的 MCP 工具使用教程与下载地址",
+  "total_lines": 443,
+  "total_chars": 6263,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "MCP 是什么（一句话版）",
+    "lines": "2-7",
+    "start": 2,
+    "end": 7,
+    "chars": 201
+   },
+   {
+    "title": "Unity MCP 工具",
+    "lines": "8-103",
+    "start": 8,
+    "end": 103,
+    "chars": 1367
+   },
+   {
+    "title": "Godot MCP 工具",
+    "lines": "104-215",
+    "start": 104,
+    "end": 215,
+    "chars": 1358
+   },
+   {
+    "title": "Unreal Engine MCP 工具",
+    "lines": "216-343",
+    "start": 216,
+    "end": 343,
+    "chars": 1567
+   },
+   {
+    "title": "Blender MCP 工具（3D 美术管线）",
+    "lines": "344-375",
+    "start": 344,
+    "end": 375,
+    "chars": 476
+   },
+   {
+    "title": "通用 MCP 开发 SDK（自建工具用）",
+    "lines": "376-405",
+    "start": 376,
+    "end": 405,
+    "chars": 657
+   },
+   {
+    "title": "快速选型建议",
+    "lines": "406-421",
+    "start": 406,
+    "end": 421,
+    "chars": 274
+   },
+   {
+    "title": "MCP 使用通用注意事项",
+    "lines": "422-443",
+    "start": 422,
+    "end": 443,
+    "chars": 332
+   }
+  ]
+ },
+ {
+  "file": "开发/编程：游戏制作/游戏ui页面.md",
+  "name": "游戏ui页面",
+  "title": "游戏页面 UI 实现规范",
+  "total_lines": 657,
+  "total_chars": 4888,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "文档定位",
+    "lines": "2-11",
+    "start": 2,
+    "end": 11,
+    "chars": 129
+   },
+   {
+    "title": "任务接收：必须先确认的七项",
+    "lines": "12-33",
+    "start": 12,
+    "end": 33,
+    "chars": 325
+   },
+   {
+    "title": "游戏 UI 的分类",
+    "lines": "34-67",
+    "start": 34,
+    "end": 67,
+    "chars": 332
+   },
+   {
+    "title": "各引擎实现规范",
+    "lines": "68-319",
+    "start": 68,
+    "end": 319,
+    "chars": 2255
+   },
+   {
+    "title": "游戏 UI 的核心设计规范",
+    "lines": "320-435",
+    "start": 320,
+    "end": 435,
+    "chars": 546
+   },
+   {
+    "title": "各类型 UI 的实现要点",
+    "lines": "436-549",
+    "start": 436,
+    "end": 549,
+    "chars": 508
+   },
+   {
+    "title": "常见错误清单（产出前自查）",
+    "lines": "550-587",
+    "start": 550,
+    "end": 587,
+    "chars": 302
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "588-629",
+    "start": 588,
+    "end": 629,
+    "chars": 297
+   },
+   {
+    "title": "待确认清单（收到任务时填写）",
+    "lines": "630-657",
+    "start": 630,
+    "end": 657,
+    "chars": 162
+   }
+  ]
+ },
+ {
+  "file": "开发/编程：游戏制作/聊天页面实现.md",
+  "name": "聊天页面实现",
+  "title": "一、核心原则",
+  "total_lines": 379,
+  "total_chars": 4079,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "核心原则",
+    "lines": "1-5",
+    "start": 1,
+    "end": 5,
+    "chars": 57
+   },
+   {
+    "title": "技术路线选择",
+    "lines": "6-21",
+    "start": 6,
+    "end": 21,
+    "chars": 186
+   },
+   {
+    "title": "各引擎实现方案",
+    "lines": "22-207",
+    "start": 22,
+    "end": 207,
+    "chars": 2315
+   },
+   {
+    "title": "关键实现要点",
+    "lines": "208-259",
+    "start": 208,
+    "end": 259,
+    "chars": 491
+   },
+   {
+    "title": "合规要求（必须检查）",
+    "lines": "260-301",
+    "start": 260,
+    "end": 301,
+    "chars": 337
+   },
+   {
+    "title": "常见错误清单",
+    "lines": "302-327",
+    "start": 302,
+    "end": 327,
+    "chars": 267
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "328-357",
+    "start": 328,
+    "end": 357,
+    "chars": 250
+   },
+   {
+    "title": "待确认清单",
+    "lines": "358-379",
+    "start": 358,
+    "end": 379,
+    "chars": 169
+   }
+  ]
+ },
+ {
+  "file": "开发/编程：游戏制作/联机实现.md",
+  "name": "联机实现",
+  "title": "一、文档定位",
+  "total_lines": 547,
+  "total_chars": 5207,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "文档定位",
+    "lines": "1-9",
+    "start": 1,
+    "end": 9,
+    "chars": 113
+   },
+   {
+    "title": "任务接收：必须先确认的六项",
+    "lines": "10-29",
+    "start": 10,
+    "end": 29,
+    "chars": 276
+   },
+   {
+    "title": "路线决策树（强制按此顺序）",
+    "lines": "30-53",
+    "start": 30,
+    "end": 53,
+    "chars": 369
+   },
+   {
+    "title": "各路线执行规范",
+    "lines": "54-325",
+    "start": 54,
+    "end": 325,
+    "chars": 2963
+   },
+   {
+    "title": "通用实现规范",
+    "lines": "326-443",
+    "start": 326,
+    "end": 443,
+    "chars": 726
+   },
+   {
+    "title": "常见错误清单（产出前自查）",
+    "lines": "444-475",
+    "start": 444,
+    "end": 475,
+    "chars": 286
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "476-517",
+    "start": 476,
+    "end": 517,
+    "chars": 287
+   },
+   {
+    "title": "待确认清单（收到任务时填写）",
+    "lines": "518-547",
+    "start": 518,
+    "end": 547,
+    "chars": 180
+   }
+  ]
+ },
+ {
+  "file": "开发/编程：游戏制作/联机实现2.md",
+  "name": "联机实现2",
+  "title": "游戏联机实现规范（无现成网站/平台版）",
+  "total_lines": 657,
+  "total_chars": 4938,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "文档定位",
+    "lines": "2-31",
+    "start": 2,
+    "end": 31,
+    "chars": 180
+   },
+   {
+    "title": "核心原则（与上一份完全相反）",
+    "lines": "32-47",
+    "start": 32,
+    "end": 47,
+    "chars": 129
+   },
+   {
+    "title": "从零实现的三种方式",
+    "lines": "48-155",
+    "start": 48,
+    "end": 155,
+    "chars": 734
+   },
+   {
+    "title": "按引擎的实现路线（从零版）",
+    "lines": "156-461",
+    "start": 156,
+    "end": 461,
+    "chars": 2533
+   },
+   {
+    "title": "从零实现的核心组件（必须自己写的）",
+    "lines": "462-541",
+    "start": 462,
+    "end": 541,
+    "chars": 278
+   },
+   {
+    "title": "服务器选择（方式 B 的关键）",
+    "lines": "542-561",
+    "start": 542,
+    "end": 561,
+    "chars": 212
+   },
+   {
+    "title": "常见错误清单（无外部服务版）",
+    "lines": "562-589",
+    "start": 562,
+    "end": 589,
+    "chars": 268
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "590-631",
+    "start": 590,
+    "end": 631,
+    "chars": 402
+   },
+   {
+    "title": "待确认清单（收到任务时填写）",
+    "lines": "632-657",
+    "start": 632,
+    "end": 657,
+    "chars": 174
+   }
+  ]
+ },
+ {
+  "file": "开发/补充规范.md",
+  "name": "补充规范",
+  "title": "文档说明",
+  "total_lines": 368,
+  "total_chars": 4593,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "监控与日志（重述要点）",
+    "lines": "6-54",
+    "start": 6,
+    "end": 54,
+    "chars": 618
+   },
+   {
+    "title": "消息队列",
+    "lines": "55-90",
+    "start": 55,
+    "end": 90,
+    "chars": 501
+   },
+   {
+    "title": "微服务",
+    "lines": "91-114",
+    "start": 91,
+    "end": 114,
+    "chars": 378
+   },
+   {
+    "title": "国际化（重述要点）",
+    "lines": "115-136",
+    "start": 115,
+    "end": 136,
+    "chars": 375
+   },
+   {
+    "title": "无障碍（重述要点）",
+    "lines": "137-172",
+    "start": 137,
+    "end": 172,
+    "chars": 431
+   },
+   {
+    "title": "游戏反作弊（重述要点）",
+    "lines": "173-216",
+    "start": 173,
+    "end": 216,
+    "chars": 466
+   },
+   {
+    "title": "PWA（重述要点）",
+    "lines": "217-242",
+    "start": 217,
+    "end": 242,
+    "chars": 352
+   },
+   {
+    "title": "图表可视化（重述要点）",
+    "lines": "243-264",
+    "start": 243,
+    "end": 264,
+    "chars": 281
+   },
+   {
+    "title": "低代码（重述要点）",
+    "lines": "265-276",
+    "start": 265,
+    "end": 276,
+    "chars": 160
+   },
+   {
+    "title": "图形学（重述要点）",
+    "lines": "277-302",
+    "start": 277,
+    "end": 302,
+    "chars": 274
+   },
+   {
+    "title": "微调（AI 进阶）",
+    "lines": "303-368",
+    "start": 303,
+    "end": 368,
+    "chars": 641
+   }
+  ]
+ },
+ {
+  "file": "开发/跨端与底层系统实现规范.md",
+  "name": "跨端与底层系统实现规范",
+  "title": "文档说明",
+  "total_lines": 283,
+  "total_chars": 3865,
+  "split_level": "part",
+  "segments": [
+   {
+    "title": "移动端适配",
+    "lines": "5-48",
+    "start": 5,
+    "end": 48,
+    "chars": 741
+   },
+   {
+    "title": "桌面端（Electron / Tauri）",
+    "lines": "49-69",
+    "start": 49,
+    "end": 69,
+    "chars": 490
+   },
+   {
+    "title": "小程序（微信/支付宝）",
+    "lines": "70-84",
+    "start": 70,
+    "end": 84,
+    "chars": 265
+   },
+   {
+    "title": "跨平台（Flutter / React Native）",
+    "lines": "85-112",
+    "start": 85,
+    "end": 112,
+    "chars": 496
+   },
+   {
+    "title": "低代码平台",
+    "lines": "113-131",
+    "start": 113,
+    "end": 131,
+    "chars": 217
+   },
+   {
+    "title": "游戏引擎源码",
+    "lines": "132-159",
+    "start": 132,
+    "end": 159,
+    "chars": 390
+   },
+   {
+    "title": "图形学",
+    "lines": "160-190",
+    "start": 160,
+    "end": 190,
+    "chars": 262
+   },
+   {
+    "title": "物理引擎",
+    "lines": "191-215",
+    "start": 191,
+    "end": 215,
+    "chars": 282
+   },
+   {
+    "title": "网络同步",
+    "lines": "216-283",
+    "start": 216,
+    "end": 283,
+    "chars": 622
+   }
+  ]
+ },
+ {
+  "file": "文件储存和数据迁移.md",
+  "name": "文件储存和数据迁移",
+  "title": "文件存储与数据迁移实现规范",
+  "total_lines": 463,
+  "total_chars": 4032,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "文档定位",
+    "lines": "2-11",
+    "start": 2,
+    "end": 11,
+    "chars": 137
+   },
+   {
+    "title": "文件存储：必须先确认的四项",
+    "lines": "12-27",
+    "start": 12,
+    "end": 27,
+    "chars": 209
+   },
+   {
+    "title": "存储类型选择",
+    "lines": "28-45",
+    "start": 28,
+    "end": 45,
+    "chars": 232
+   },
+   {
+    "title": "对象存储实现规范（推荐）",
+    "lines": "46-141",
+    "start": 46,
+    "end": 141,
+    "chars": 857
+   },
+   {
+    "title": "文件上传实现规范",
+    "lines": "142-189",
+    "start": 142,
+    "end": 189,
+    "chars": 308
+   },
+   {
+    "title": "数据迁移：必须先确认的五项",
+    "lines": "190-207",
+    "start": 190,
+    "end": 207,
+    "chars": 217
+   },
+   {
+    "title": "迁移策略选择",
+    "lines": "208-267",
+    "start": 208,
+    "end": 267,
+    "chars": 541
+   },
+   {
+    "title": "迁移工具选择",
+    "lines": "268-281",
+    "start": 268,
+    "end": 281,
+    "chars": 196
+   },
+   {
+    "title": "迁移的硬性规范（AI 必守）",
+    "lines": "282-357",
+    "start": 282,
+    "end": 357,
+    "chars": 593
+   },
+   {
+    "title": "常见错误清单",
+    "lines": "358-387",
+    "start": 358,
+    "end": 387,
+    "chars": 268
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "388-425",
+    "start": 388,
+    "end": 425,
+    "chars": 241
+   },
+   {
+    "title": "待确认清单（收到任务时填写）",
+    "lines": "426-463",
+    "start": 426,
+    "end": 463,
+    "chars": 197
+   }
+  ]
+ },
+ {
+  "file": "无联网能力时的信息获取与下载规范.md",
+  "name": "无联网能力时的信息获取与下载规范",
+  "title": "一、文档定位",
+  "total_lines": 259,
+  "total_chars": 2516,
+  "split_level": "sec",
+  "segments": [
+   {
+    "title": "文档定位",
+    "lines": "1-4",
+    "start": 1,
+    "end": 4,
+    "chars": 108
+   },
+   {
+    "title": "先判断：你到底能不能联网？",
+    "lines": "5-14",
+    "start": 5,
+    "end": 14,
+    "chars": 219
+   },
+   {
+    "title": "无联网时的信息获取：三条路",
+    "lines": "15-73",
+    "start": 15,
+    "end": 73,
+    "chars": 564
+   },
+   {
+    "title": "无联网时的下载：四种替代方案",
+    "lines": "74-168",
+    "start": 74,
+    "end": 168,
+    "chars": 748
+   },
+   {
+    "title": "给用户的请求模板",
+    "lines": "169-185",
+    "start": 169,
+    "end": 185,
+    "chars": 141
+   },
+   {
+    "title": "禁止事项（强制）",
+    "lines": "186-220",
+    "start": 186,
+    "end": 220,
+    "chars": 238
+   },
+   {
+    "title": "常见错误清单",
+    "lines": "221-231",
+    "start": 221,
+    "end": 231,
+    "chars": 129
+   },
+   {
+    "title": "给其他 AI 的硬性要求",
+    "lines": "232-250",
+    "start": 232,
+    "end": 250,
+    "chars": 226
+   },
+   {
+    "title": "待确认清单",
+    "lines": "251-259",
+    "start": 251,
+    "end": 259,
+    "chars": 135
+   }
+  ]
+ },
+ {
+  "file": "游戏系统与引擎进阶实现规范.md",
+  "name": "游戏系统与引擎进阶实现规范",
+  "title": "游戏系统与引擎进阶实现规范",
+  "total_lines": 547,
+  "total_chars": 6888,
+  "split_level": "part",
+  "segments": [
+   {
+    "title": "游戏数值设计",
+    "lines": "6-51",
+    "start": 6,
+    "end": 51,
+    "chars": 604
+   },
+   {
+    "title": "游戏关卡设计",
+    "lines": "52-99",
+    "start": 52,
+    "end": 99,
+    "chars": 586
+   },
+   {
+    "title": "游戏叙事",
+    "lines": "100-145",
+    "start": 100,
+    "end": 145,
+    "chars": 410
+   },
+   {
+    "title": "游戏 UI 动效",
+    "lines": "146-178",
+    "start": 146,
+    "end": 178,
+    "chars": 420
+   },
+   {
+    "title": "游戏手柄适配",
+    "lines": "179-206",
+    "start": 179,
+    "end": 206,
+    "chars": 482
+   },
+   {
+    "title": "游戏成就系统",
+    "lines": "207-234",
+    "start": 207,
+    "end": 234,
+    "chars": 413
+   },
+   {
+    "title": "游戏社交",
+    "lines": "235-264",
+    "start": 235,
+    "end": 264,
+    "chars": 399
+   },
+   {
+    "title": "游戏运营",
+    "lines": "265-301",
+    "start": 265,
+    "end": 301,
+    "chars": 365
+   },
+   {
+    "title": "游戏数据分析",
+    "lines": "302-324",
+    "start": 302,
+    "end": 324,
+    "chars": 298
+   },
+   {
+    "title": "游戏变现",
+    "lines": "325-350",
+    "start": 325,
+    "end": 350,
+    "chars": 296
+   },
+   {
+    "title": "游戏出海",
+    "lines": "351-377",
+    "start": 351,
+    "end": 377,
+    "chars": 328
+   },
+   {
+    "title": "游戏引擎进阶（ECS/Job/Burst）",
+    "lines": "378-547",
+    "start": 378,
+    "end": 547,
+    "chars": 2164
+   }
+  ]
+ }
+]
